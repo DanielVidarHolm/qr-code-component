@@ -54,8 +54,7 @@ The image was behaving oddly and wasn't filling the container, I fixed it by dis
           width:100%;
           display:block;
       }
-
-
+```
 ### Optimizations
 
 Better naming on css styles
