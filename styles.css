@@ -1,0 +1,49 @@
+/* Basic Styles */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color:hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+   
+}
+
+
+/* Card */
+.card {
+    background-color:hsl(0, 0%, 100%);
+    width:340px;
+    padding:15px;
+    border-radius:15px;
+    margin:100px auto 0
+   
+}
+
+/* Image */
+.image-container {
+    width:100%;
+    border-radius:10px;
+    overflow:hidden;
+}
+    .image-container > img{
+        width:100%;
+        display:block;
+    }
+
+/* Content */
+.content-container{
+    padding:15px;
+    text-align:center;
+}
+    .content-container > p{
+        font-size:15px;
+    }
+/* Footer */
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
