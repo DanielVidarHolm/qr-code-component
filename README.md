@@ -1,9 +1,9 @@
 # QR code component
----
+
 This is a QR Code component for linking to a website called Frontend Mentor
 
 ## Table of contents
----
+
 - [QR code component](#qr-code-component)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
@@ -20,7 +20,7 @@ This is a QR Code component for linking to a website called Frontend Mentor
   - [Acknowledgement](#acknowledgement)
 
 ## Overview
----
+
 ### Screenshot
 
 ![](./screenshot.png)
@@ -30,7 +30,7 @@ This is a QR Code component for linking to a website called Frontend Mentor
 - Live Site URL: [Visit Live Site](https://daniels-qr-code-component.onrender.com/)
 
 ## My process
----
+
 
 ### Built with
 
@@ -54,7 +54,7 @@ The image was behaving oddly and wasn't filling the container, I fixed it by dis
           width:100%;
           display:block;
       }
-```
+
 
 ### Optimizations
 
@@ -71,7 +71,7 @@ In the future i would like to add a button that generates a QR Code based on wha
 
 
 ## Author
----
+
 - Website -  [@DanielVidarHolm](https://danielholm.me/)
 - Frontend Mentor - [@DanielVidarHolm](https://www.frontendmentor.io/profile/DanielVidarHolm)
 - Twitter - [@DanielVidarHolm](https://twitter.com/DanielVidarHolm)
@@ -84,5 +84,5 @@ In the future i would like to add a button that generates a QR Code based on wha
 - [Heroes of might and magic Api](https://github.com/DanielVidarHolm/homm3-api)
 
 ## Acknowledgement
----
+
 - No Acknowledgents for this project
